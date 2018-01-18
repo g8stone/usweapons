@@ -1,0 +1,82 @@
+title: US mass shootings: main weapons used
+subhead: Worst shooting sprees since 2012
+
+[tabs]
+image: aurora1.svg
+props.name: 2012
+props.title: Aurora, Colorado
+props.date: July 20, 2012
+props.toll: 12 killed
+props.description: Smith & Wesson M&P15, plus semi-automatic pistol, shotgun)
+props.color: #f2db9f
+
+image: sandyhook2.svg
+props.name: 2012
+props.title: Sandy Hook School, Newtown, Connecticut
+props.date: December 14, 2012
+props.toll: 26 killed
+props.description: Bushmaster .223, plus two hand guns
+props.color: #f2db9f
+
+image: washington3.svg
+props.name: 2013
+props.title: Washington DC
+props.date: September 16, 2013
+props.toll: 12 killed
+props.description: Remington 870 Express (with sawed-off barrel and stock)
+props.color: #efc95f
+
+image: charleston4.svg
+props.name: 2015
+props.title: Charleston, South Carolina
+props.date: June 17, 2015
+props.toll: 9 killed
+props.description: Glock 41 .45 caliber
+props.color: #efba26
+
+image: umpqua5.svg
+props.name: 2015
+props.title: Umpqua Community College, Roseburg, Oregon
+props.date: October 1, 2015
+props.toll: 9 killed
+props.description: Glock 9 mm, plus 5 other guns
+props.color: #efba26
+
+image: sanbernardino6.svg
+props.name: 2015
+props.title: San Bernardino, California
+props.date: December 2, 2015
+props.toll: 14 killed
+props.description: .223-caliber assault rifle, semi-automatic handgun
+props.color: #efba26
+
+image: orlando7.svg
+props.name: 2016
+props.title: Pulse nightclub, Orlando, Florida
+props.date: June 12, 2016
+props.toll: 49 killed
+props.description: SIG Sauer MCX, Glock 17 pistol 
+props.color: #c18f09
+
+image: lasvegas8.svg
+props.name: 2017
+props.title: Las Vegas, Nevada
+props.date: October 1, 2017
+props.toll: 58 killed
+props.description: AR-15-type semi automatic rifle, 22 other guns
+props.color: #997104
+
+image: texas9.svg
+props.name: 2017
+props.title: First Baptist Church, Sutherland Springs, Texas
+props.date: November 5, 2017
+props.toll: 26 killed
+props.description: Ruger AR assault-type rifle
+props.color: #997104
+
+[]
+
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/14/2018 18:00:00
+lang: en
